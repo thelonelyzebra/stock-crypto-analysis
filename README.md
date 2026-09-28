@@ -54,6 +54,8 @@ This will launch the GUI, where you can select options for stock and cryptocurre
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
+ETH: 0x2F6B79c8e1e51A760Ef7930b40eEF7d668098328
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
